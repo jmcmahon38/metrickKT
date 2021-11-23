@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">metrickKT</string>
+    <string name="title">Metric Conversion</string>
+    <string name="txtHint">Measurement to Convert</string>
+    <string name="txtInToCm">Convert Inches to Centimeters</string>
+    <string name="txtCmToIn">Convert Centimeters to Inches</string>
+    <string name="txtButton">Convert Measurement</string>
+</resources>
